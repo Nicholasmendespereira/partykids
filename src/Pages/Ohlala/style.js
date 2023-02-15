@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import "../../Globalstyle.css";
-import "../../FontProviders.css"
+import "../../FontProviders.css";
 
 import bolo from "../../assets/Bolopng.png";
 
@@ -74,7 +74,7 @@ export const Header = styled.header`
       left: 20%;
     }
   }
-  #balloon{
+  #balloon {
     width: 100%;
   }
 `;
@@ -92,18 +92,18 @@ export const Div = styled.div`
     height: 100%;
   }
   .teste {
-    font-family: 'Above';
+    font-family: "Above";
   }
-  .teste h1{
+  .teste h1 {
     font-size: 3rem;
-    color: #85B88A;
+    color: #85b88a;
   }
-  .teste h3, small{
+  .teste h3,
+  small {
     font-weight: lighter;
-    color: #7A6B1D;
+    color: #7a6b1d;
   }
-  .teste h3{
-
+  .teste h3 {
     font-size: 1.2rem;
   }
 `;
